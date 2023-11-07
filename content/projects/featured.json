@@ -1,0 +1,42 @@
+[
+	{
+		"project": "Login App (Logistic Interactive App).",
+		"url": "https://mysupplyco.com",
+		"repo": "Private",
+		"descriptionTitle": "Login App (Logistic Interactive) app is a fuel management system mobile app for mining site ",
+		"description": "powered by PT Harmoni Panca Utama.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "flutter", 		"name": "flutter", 			"type": "devicon" },
+			{ "key": "dart", 		"name": "dart", 			"type": "devicon" },
+			{ "key": "sqlite", 		"name": "sqlite", 		"type": "devicon" }, 
+			{ "key": "android",		"name": "android", 		"type": "devicon" }, 
+			{ "key": "git",			"name": "gitlab", 	"type": "devicon" } 
+		]
+	},
+	{
+		"project": "Eventeer App V1",
+		"url": "https://github.com/atlamors/portfolio",
+		"repo": "Private", 
+		"description": "The All-In-One Event Website Platform for Event Organizer. Manage events, embrace the community and discover the potential to learn together with just one platform. Issued by Telkom Indonesia (Digital Amoeba).",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [ 
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" }, 
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" }, 
+			{ "key": "xcode",		"name": "xcode", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]
